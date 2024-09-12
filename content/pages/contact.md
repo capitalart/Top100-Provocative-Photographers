@@ -8,7 +8,15 @@ sections:
     title: Contact me
     subtitle: Advertising and sponsorships available
     text: |
-      Contact form will go here
+      Contact the author:
+
+      Robin Custance
+
+      <robincustance@gmail.com>
+
+      +61 0417 388 189
+
+      I am an Australian Aboriginal and I live in Adelaide South Australia
     elementId: ''
     styles:
       self:
