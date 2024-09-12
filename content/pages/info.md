@@ -9,11 +9,13 @@ sections:
     text: >+
       #### My journey through life has been a tapestry of diverse experiences,
       from capturing weddings through a lens to navigating the intricacies of
-      the digital world. Though my career path may have taken unexpected turns,
-      a common thread has always been my passion for creativity and visual
-      storytelling. Today, I'm channeling that passion into new and exciting
-      ventures, using technology to create art that inspires, challenges, and
-      connects.
+      the digital world.
+
+
+      Though my career path may have taken unexpected turns, a common thread has
+      always been my passion for creativity and visual storytelling. Today, I'm
+      channeling that passion into new and exciting ventures, using technology
+      to create art that inspires, challenges, and connects.
 
     media:
       type: ImageBlock
