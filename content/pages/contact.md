@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Contact me
-    subtitle: Advertising and sponsorships available
+    subtitle: Advertising and sponsorships available contact me for more info
     text: |
       Contact the author:
 
