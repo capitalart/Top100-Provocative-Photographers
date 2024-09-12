@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Contact me
-    subtitle: ''
+    subtitle: Contact form
     text: |
       Contact form will go here
     elementId: ''
