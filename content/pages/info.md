@@ -10,7 +10,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: H4
+  - elementId: ''
     colors: colors-f
     backgroundSize: full
     text: >+
