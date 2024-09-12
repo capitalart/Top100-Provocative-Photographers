@@ -139,7 +139,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Got an interesting question?...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -202,4 +202,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: |
+      Contact form to go here
 ---
