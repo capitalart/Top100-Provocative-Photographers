@@ -179,7 +179,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [robincustance@gmail.com](mailto:thisismyemail.@myemail.me)
+      [robincustance@gmail.com](mailto:robincustance@gmail.com)
   - type: DividerSection
     styles:
       self:
