@@ -34,7 +34,7 @@
     },
     "h4": {
         "size": "3xl",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "capitalize",
         "letterSpacing": "normal"
