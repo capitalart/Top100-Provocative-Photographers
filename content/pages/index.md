@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     title: >-
       "They dared to see differently. They dared to capture the unseen. They
