@@ -12,9 +12,22 @@ sections:
       boundaries, provoked thought, and forever changed the way we see the
       world."
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Photography has always held a special place in my heart. The way a single
+      image can capture a fleeting moment, evoke powerful emotions, or challenge
+      our perceptions of the world has always fascinated me. Though life's
+      twists and turns led me down a different path, the dream of being a
+      photographer never truly faded. It remained a quiet whisper, a yearning
+      that lingered in the background of my life.Today, I'm channeling that
+      passion into a heartfelt tribute to the masters of the craft – the 100
+      photographers who have left an indelible mark on the world of visual art.
+      Through their lenses, they dared to see beyond the ordinary, capturing the
+      raw beauty, the hidden truths, and the provocative spirit that lies within
+      us all. Their images have stirred our souls, challenged our beliefs, and
+      expanded our understanding of the human experience.This website is a
+      testament to their legacy, a celebration of their artistry, and a humble
+      offering of my admiration. May their work continue to inspire generations
+      to come, reminding us that even in the face of adversity, the human spirit
+      can create beauty, provoke thought, and illuminate the world around us.
     styles:
       self:
         height: auto
