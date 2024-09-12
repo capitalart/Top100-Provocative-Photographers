@@ -33,10 +33,10 @@
         "letterSpacing": "normal"
     },
     "h4": {
-        "size": "3xl",
-        "weight": "medium",
+        "size": "2xl",
+        "weight": "normal",
         "decoration": "none",
-        "case": "uppercase",
+        "case": "capitalize",
         "letterSpacing": "normal"
     },
     "h5": {

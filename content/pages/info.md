@@ -13,14 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      #### My journey through life has been a tapestry of diverse experiences,
+      from capturing weddings through a lens to navigating the intricacies of
+      the digital world. Though my career path may have taken unexpected turns,
+      a common thread has always been my passion for creativity and visual
+      storytelling. Today, I'm channeling that passion into new and exciting
+      ventures, using technology to create art that inspires, challenges, and
+      connects.
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: >-
+        /images/robincustance_A_creative_Time_Traveling_Artist_male_aged_45_9f6316ac-083b-42cb-be5b-7a596ec67ae2.png
       altText: Hero image
     styles:
       self:
@@ -46,6 +51,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: Info
   - type: DividerSection
     styles:
       self:
