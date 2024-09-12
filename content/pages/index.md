@@ -17,7 +17,7 @@ sections:
       our perceptions of the world has always fascinated me. Though life's
       twists and turns led me down a different path, the dream of being a
       photographer never truly faded. It remained a quiet whisper, a yearning
-      that lingered in the background of my life. Today, I'm channeling that
+      that lingered in the background of my life.Today, I'm channeling that
       passion into a heartfelt tribute to the masters of the craft – the 100
       photographers who have left an indelible mark on the world of visual art.
       Through their lenses, they dared to see beyond the ordinary, capturing the
