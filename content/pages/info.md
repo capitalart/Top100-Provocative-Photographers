@@ -13,11 +13,12 @@ sections:
 
 
       #### Though my career path may have taken unexpected turns, a common
-      thread has always been my passion for creativity and visual storytelling. 
+      thread has always been my passion for creativity and visual storytelling.
 
 
       #### Today, I'm channeling that passion into new and exciting ventures,
-      using technology to create art that inspires, challenges, and connects.
+      using technology to create art that inspires, challenges, connects,
+      entertains and teaches.
 
     media:
       type: ImageBlock
