@@ -3,6 +3,7 @@ const themeStyle = require('./content/data/style.json');
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+    darkMode: 'class', // This enables class-based dark mode
     content: ['./src/**/*.{js,ts,jsx,tsx}', './content/**/*'],
     safelist: [
         'colors-a',
@@ -49,6 +50,11 @@ module.exports = {
             }
         }
     },
+    variants: {
+        extend: {
+            // Add variants here if needed
+        }
+    },
     plugins: [
         plugin(function ({ addBase, addComponents, theme }) {
             const h1Size = themeStyle.h1.size;
@@ -57,6 +63,7 @@ module.exports = {
             const adjustH2Size = ['5xl', '6xl', '7xl', '8xl', '9xl'].includes(h2Size);
             const h3Size = themeStyle.h3.size;
             const adjustH3Size = ['4xl', '5xl', '6xl', '7xl', '8xl', '9xl'].includes(h3Size);
+
             addBase({
                 body: {
                     fontFamily: theme(`fontFamily.${themeStyle.fontBody}`)
@@ -128,6 +135,7 @@ module.exports = {
                     textTransform: themeStyle.h6.case
                 }
             });
+
             addComponents({
                 '.sb-component-button-primary': {
                     fontWeight: theme(`fontWeight.${themeStyle.buttonPrimary.weight}`),
