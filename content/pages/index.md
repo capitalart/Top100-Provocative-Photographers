@@ -39,11 +39,11 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
-      ##### Photography has always held a special place in my heart. The way a
-      single image can capture a fleeting moment, evoke powerful emotions, or
-      challenge our perceptions of the world has always fascinated me. Though
-      life's twists and turns led me down a different path, the dream of being a
+    text: >
+      Photography has always held a special place in my heart. The way a single
+      image can capture a fleeting moment, evoke powerful emotions, or challenge
+      our perceptions of the world has always fascinated me. Though life's
+      twists and turns led me down a different path, the dream of being a
       photographer never truly faded. It remained a quiet whisper, a yearning
       that lingered in the background of my life. Today, I'm channeling that
       passion into a heartfelt tribute to the masters of the craft – the 100
@@ -56,7 +56,6 @@ sections:
       offering of my admiration. May their work continue to inspire generations
       to come, reminding us that even in the face of adversity, the human spirit
       can create beauty, provoke thought, and illuminate the world around us.
-
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
