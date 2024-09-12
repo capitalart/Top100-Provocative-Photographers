@@ -176,7 +176,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Contact Robin:'
     colors: colors-f
     text: |
       [robincustance@gmail.com](mailto:robincustance@gmail.com)
