@@ -12,10 +12,10 @@ sections:
       the digital world.
 
 
-      Though my career path may have taken unexpected turns, a common thread has
-      always been my passion for creativity and visual storytelling. Today, I'm
-      channeling that passion into new and exciting ventures, using technology
-      to create art that inspires, challenges, and connects.
+      #### Though my career path may have taken unexpected turns, a common
+      thread has always been my passion for creativity and visual storytelling.
+      Today, I'm channeling that passion into new and exciting ventures, using
+      technology to create art that inspires, challenges, and connects.
 
     media:
       type: ImageBlock
