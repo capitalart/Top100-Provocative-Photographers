@@ -94,7 +94,7 @@
             "address": "Adelaide South Australia",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
