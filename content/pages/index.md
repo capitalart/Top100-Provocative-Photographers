@@ -5,7 +5,7 @@ colors: colors-b
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       "They dared to see differently. They dared to capture the unseen. They
       dared to challenge the norm. These are the 100 photographers who pushed
