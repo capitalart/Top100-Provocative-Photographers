@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Contact me
-    subtitle: Contact form
+    subtitle: Advertising and sponsorships available
     text: |
       Contact form will go here
     elementId: ''
