@@ -7,7 +7,15 @@
 @layer base {
     body {
         @apply flex flex-col min-h-screen antialiased;
+        /* Default light mode styling */
+        @apply bg-white text-black;
     }
+
+    /* Dark mode styling */
+    body.dark-mode {
+        @apply bg-black text-white;
+    }
+
     body > div,
     .sb-page,
     .sb-base {
