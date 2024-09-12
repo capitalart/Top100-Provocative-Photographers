@@ -88,7 +88,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "My contact number",
             "email": "robincustance@gmail.com",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
