@@ -18,7 +18,7 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/robincustance_A_creative_Time_Traveling_Artist_male_aged_45_9f6316ac-083b-42cb-be5b-7a596ec67ae2.png
+        /images/robincustance_A_creative_Time_Traveling_Artist_male_aged_45_9f6316ac-083b-42cb-be5b-7a596ec67ae2.jpeg
       altText: Hero image
     styles:
       self:
