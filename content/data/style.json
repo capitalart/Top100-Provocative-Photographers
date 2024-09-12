@@ -36,7 +36,7 @@
         "size": "2xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "lowercase",
+        "case": "none",
         "letterSpacing": "normal"
     },
     "h5": {
